@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://gardencleanerevolutiongame.wiki
+Sitemap: https://gardencleanerevolutiongame.wiki/sitemap.xml
